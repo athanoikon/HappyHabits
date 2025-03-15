@@ -3,7 +3,7 @@
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
-We as contributors and maintainers pledge to make participation in MyDailyHabits a welcoming and inclusive experience for everyone.
+We as contributors and maintainers pledge to make participation in HappyHabits a welcoming and inclusive experience for everyone.
 
 ## Our Standards
 Examples of positive behavior:
